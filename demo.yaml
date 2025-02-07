@@ -1,0 +1,5 @@
+config:
+  http_config:
+    port: ":8080"
+    debug_mode: true
+    swagger_mode: true
