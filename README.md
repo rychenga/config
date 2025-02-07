@@ -6,3 +6,9 @@
 - github.com/spf13/viper
 
  
+## 執行方式
+``` bash
+go run .
+或
+go run main.go model.go
+```
